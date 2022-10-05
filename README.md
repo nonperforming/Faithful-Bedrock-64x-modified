@@ -1,4 +1,4 @@
-<img src="https://github.com/Faithful-Resource-Pack/NewBr/blob/master/logos/transparent/512/f64_logo.png?raw=true" alt="Faithful 64x" align="right" height="256px">
+<img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/f64_logo.png?raw=true" alt="Faithful 64x" align="right" height="256px">
 <div align="center">
   <h1>Faithful 64x</h1>
   <h3>The original Minecraft texture feel, with double the resolution and double the fun!</h3>
