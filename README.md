@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/Faithful-Resource-Pack/Branding/refs/heads/main/logos/transparent/512/f64_logo.png" alt="Faithful 64x" align="right" height="256px">
+<img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/f64_logo.png?w=256" alt="Faithful 64x" align="right" height="256px">
 <div align="center">
   <h1>Faithful 64x</h1>
-  <h3>An even more detailed experience with quadruple-resolution textures!</h3>
+  <h3>The go-to 64x resource pack for Minecraft.</h3>
   <h5><i>Official Bedrock Edition repository</i></h5>
 
 ![RepoSize](https://img.shields.io/github/repo-size/Faithful-Resource-Pack/Faithful-64x-Bedrock)
