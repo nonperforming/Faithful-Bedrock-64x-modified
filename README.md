@@ -4,9 +4,9 @@
   <h3>The go-to 64x resource pack for Minecraft.</h3>
   <h5><i>Official Bedrock Edition repository</i></h5>
 
-![RepoSize](https://img.shields.io/github/repo-size/Faithful-Resource-Pack/Faithful-64x-Bedrock)
-![Issues](https://img.shields.io/github/issues/Faithful-Resource-Pack/Faithful-64x-Bedrock)
-![PullRequests](https://img.shields.io/github/issues-pr/Faithful-Resource-Pack/Faithful-64x-Bedrock)
+  ![RepoSize](https://img.shields.io/github/repo-size/Faithful-Resource-Pack/Faithful-64x-Bedrock)
+  ![Issues](https://img.shields.io/github/issues/Faithful-Resource-Pack/Faithful-64x-Bedrock)
+  ![PullRequests](https://img.shields.io/github/issues-pr/Faithful-Resource-Pack/Faithful-64x-Bedrock)
 </div>
 
 ---
